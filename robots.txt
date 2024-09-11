@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://liyiyuian.github.io/sitemap-index.xml
-Host: https://liyiyuian.github.io
